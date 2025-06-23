@@ -2,6 +2,8 @@
 
 A complete 3D model of a classic LEGO minifigure created in SolidWorks as a skill-building exercise for CAD beginners.
 
+![alt text]([http://url/to/img.png](https://github.com/ayeshakhtar209/Project_X_LegoMan/blob/main/Imgs/Legoman.png))
+
 ## 📋 Project Overview
 
 This project involves designing and assembling a traditional LEGO minifigure from scratch using SolidWorks. Each component is modeled as a separate part and then assembled to create the complete figure, mimicking the real-world construction of LEGO minifigures.
