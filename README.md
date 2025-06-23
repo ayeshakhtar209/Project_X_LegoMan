@@ -2,7 +2,7 @@
 
 A complete 3D model of a classic LEGO minifigure created in SolidWorks as a skill-building exercise for CAD beginners.
 
-![alt text](https://github.com/[ayeshakhtar209]/[Project_X_LegoMan]/blob/[main]/Imgs/Legoman.png?raw=true)
+![screenshot](Imgs/Legoman.png)
 
 ## 📋 Project Overview
 
